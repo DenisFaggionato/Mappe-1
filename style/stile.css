@@ -1,0 +1,24 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+#mappa {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+#popupContent{
+  font-size: 1vw;
+}
+#popup {
+  size: 2vw;
+  background-color: white;
+  padding: 0.3vw;
+  border-radius: 20vw;
+  border: 0.2vw solid black;
+
+}
